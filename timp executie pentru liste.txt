@@ -1,0 +1,79 @@
+aproape sortat:
+10000 elemente:
+[Bubble Sort] Timp: 0.331894 secunde
+[Selection Sort] Timp: 0.267637 secunde
+[Insertion Sort] Timp: 0.022057 secunde
+[Merge Sort] Timp: 0.009307 secunde
+50000 elemente:
+[Bubble Sort] Timp: 7.599625 secunde
+[Selection Sort] Timp: 4.316486 secunde
+[Insertion Sort] Timp: 0.363615 secunde
+[Merge Sort] Timp: 0.030794 secunde
+100000 elemente:
+[Bubble Sort] Timp: 23.033692 secunde
+[Selection Sort] Timp: 21.471780 secunde
+[Insertion Sort] Timp: 1.682494 secunde
+[Merge Sort] Timp: 0.062717 secunde
+500000 elemente:
+[Bubble Sort] Timp: 643.418667 secunde
+[Selection Sort] Timp: 523.633628 secunde
+[Insertion Sort] Timp: 46.966865 secunde
+[Merge Sort] Timp: 0.310204 secunde
+sortat:
+10000 elemente:
+Bubble Sort] Timp: 0.160937 secunde
+[Selection Sort] Timp: 0.159331 secunde
+[Insertion Sort] Timp: 0.000051 secunde
+[Merge Sort] Timp: 0.005617 secunde
+50000 elemente:
+[Bubble Sort] Timp: 4.013107 secunde
+[Selection Sort] Timp: 3.971388 secunde
+[Insertion Sort] Timp: 0.000249 secunde
+[Merge Sort] Timp: 0.029152 secunde
+100000 elemente:
+[Bubble Sort] Timp: 18.861567 secunde
+[Selection Sort] Timp: 16.632240 secunde
+[Insertion Sort] Timp: 0.000516 secunde
+[Merge Sort] Timp: 0.059341 secunde
+500000 elemente:
+[Bubble Sort] Timp: 550.131343 secunde
+[Selection Sort] Timp: 496.451553 secunde
+[Insertion Sort] Timp: 0.002527 secunde
+[Merge Sort] Timp: 0.296482 secunde
+random:
+10000 elemente:
+[Bubble Sort] Timp: 0.490429 secunde
+[Selection Sort] Timp: 0.159995 secunde
+[Insertion Sort] Timp: 0.108157 secunde
+[Merge Sort] Timp: 0.006322 secunde
+50000 elemente:
+[Bubble Sort] Timp: 12.396419 secunde
+[Selection Sort] Timp: 3.975457 secunde
+[Insertion Sort] Timp: 2.697187 secunde
+[Merge Sort] Timp: 0.033086 secunde
+100000 elemente:
+[Bubble Sort] Timp: 56.911468 secunde
+[Selection Sort] Timp: 15.893147 secunde
+[Insertion Sort] Timp: 11.249931 secunde
+[Merge Sort] Timp: 0.068455 secunde
+500000 elemente:
+[Bubble Sort] Timp: 1314.065760 secunde
+[Selection Sort] Timp: 502.299129 secunde
+[Insertion Sort] Timp: 328.364988 secunde
+[Merge Sort] Timp: 0.352655 secunde
+invers sortat:
+10000 elemente:
+[Bubble Sort] Timp: 0.528765 secunde
+[Selection Sort] Timp: 0.161988 secunde
+[Insertion Sort] Timp: 0.215726 secunde
+[Merge Sort] Timp: 0.005566 secunde
+50000 elemente:
+Bubble Sort] Timp: 13.208323 secunde
+[Selection Sort] Timp: 5.052766 secunde
+[Insertion Sort] Timp: 5.671734 secunde
+[Merge Sort] Timp: 0.028724 secunde
+100000 elemente:
+[Bubble Sort] Timp: 52.813167 secunde
+[Selection Sort] Timp: 16.116245 secunde
+[Insertion Sort] Timp: 21.562325 secunde
+[Merge Sort] Timp: 0.058049 secunde
